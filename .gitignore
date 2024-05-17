@@ -1,0 +1,8 @@
+node_modules
+pulbic/*
+src/*
+index.html
+index.jsx
+package-lock.json
+package.json
+vite.config.js
